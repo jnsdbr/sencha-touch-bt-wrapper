@@ -1,6 +1,6 @@
 # Sencha Bluetooth Wrapper for Cordova
 
-Older wrapper I wrote for a Sencha Touch [project](http://jnsdbr.de/#projects/tag-the-spot).
+Old wrapper I wrote for a Sencha Touch [project](http://jnsdbr.de/#projects/tag-the-spot).
 
 ## Dependencies
 * Sencha Touch 2.1
